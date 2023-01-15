@@ -44,7 +44,7 @@
         android:inputType="text"
         android:background="@drawable/et_border"
         android:backgroundTint="@color/white"
-        android:hint="@string/name"
+        android:hint="@string/palindrome"
         android:textColorHint="@color/dark_grey"
         android:autofillHints="Palindrome"
         android:fontFamily="@font/poppins"
